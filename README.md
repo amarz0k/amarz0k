@@ -1,9 +1,7 @@
 # Ahmed Marzok
 
-📍 New Cairo, Egypt  
-📧 YourEmail@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
-💻 [GitHub](https://github.com/yourusername)
+📧 ahmed1062002@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-marzok/)  
 
 ---
 
