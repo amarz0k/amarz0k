@@ -1,6 +1,6 @@
 # Ahmed Marzok
 
-📧 ahmed1062002@gmail.com
+📧 [Mail](ahmed1062002@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-marzok/)  
 
 ---
