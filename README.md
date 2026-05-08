@@ -175,10 +175,3 @@ Expected Graduation: 2026 (Fourth Year)
 
 ICT student focused on becoming a full-stack software engineer and building scalable real-world applications. Interested in backend systems, desktop applications, AI-powered solutions, and startup development. Long-term goal is to establish a software company delivering impactful technology solutions.
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarz0k&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarz0k&layout=compact)
