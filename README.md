@@ -126,15 +126,6 @@ Expected Graduation: 2026 (Fourth Year)
 
 ---
 
-### Mochi — Realtime Chat Application
-**Next.js, Appwrite, TypeScript**
-
-- Built a realtime chat platform with authentication and protected routes  
-- Implemented Google Sign-In and realtime communication features  
-- Developed responsive UI and scalable frontend architecture  
-
----
-
 ### Chat App — Realtime Messaging App
 **Flutter, Firebase**
 
