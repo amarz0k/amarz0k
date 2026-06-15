@@ -2,7 +2,6 @@
 
 📧 ahmed1062002@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-marzok/  
-🔗 GitHub: https://github.com/amarz0k  
 
 ---
 
