@@ -1,7 +1,8 @@
 # Ahmed Marzok
 
 📧 ahmed1062002@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ahmed-marzok/  
+🔗 LinkedIn: https://www.linkedin.com/in/ahmed-marzok
+Potofolio: https://a-marzok-portfolio.vercel.app
 
 ---
 
